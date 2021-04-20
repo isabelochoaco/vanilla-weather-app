@@ -19,7 +19,7 @@ li {
   list-style: none;
   margin: 0;
   padding: 0;
-  color: #878787;
+  color: #212121;
   font-size: 16px;
   font-weight: 100;
   line-height: 19px;
@@ -32,6 +32,7 @@ li:first-letter {
 .weather-app-wrapper {
   max-width: 600px;
   margin: 30px auto;
+  background: url(https://image.freepik.com/free-vector/abstract-colorful-watercolor-splashing-background_38575-82.jpg);
 }
 
 .weather-app {
@@ -80,11 +81,11 @@ li:first-letter {
 
 .weather-forecast-date {
   font-size: 16px;
-  opacity: 0.5;
+  opacity: 0.9;
 }
 
 .weather-forecast-temperature-min {
-  opacity: 0.5;
+  opacity: 0.7;
 }
 
 .weather-forecast-temperatures {
